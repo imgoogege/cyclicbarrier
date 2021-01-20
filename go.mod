@@ -1,3 +1,3 @@
-module github.com/marusama/cyclicbarrier
+module github.com/imgoogege/cyclicbarrier
 
 go 1.11
